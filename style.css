@@ -1,0 +1,31 @@
+.form-data{
+    width: 200px;
+    background: linear-gradient(to right,rgb(72, 145, 204),rgb(17, 86, 177));
+    padding: 40px;
+    display: flex;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+body{
+    font-family: sans-serif;
+    background: linear-gradient(to right,rgb(151, 69, 245),rgb(72, 145, 204),rgb(17, 86, 177),rgb(123, 25, 136));
+}
+
+table,th,td{
+    border: solid black 1px;
+    border-collapse: collapse;
+    width: 200px;
+    border-spacing: 0;
+}
+
+th,
+td {   
+    padding: 5px;
+}
+
+input,
+select {
+    background-color: rgb(178, 195, 243);
+}
+
